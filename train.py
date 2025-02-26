@@ -49,6 +49,7 @@ from tensorflow.keras import applications
 from tensorflow.keras.callbacks import CSVLogger
 from tqdm.keras import TqdmCallback
 
+
 pathname = os.path.dirname(sys.argv[0])
 path = os.path.abspath(pathname)
 
