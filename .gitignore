@@ -1,1 +1,4 @@
 .env
+vern
+/data
+/model.weights.h5
