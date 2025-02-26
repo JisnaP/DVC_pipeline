@@ -11,3 +11,5 @@ Git
 DVC (pip install dvc)
 
 A remote storage (Google Drive, S3, Azure, or a local path) for DVC data tracking
+
+This repository uses https://github.com/iterative/example-versioning and this has been created for thoroughly understanding how dvc can be used for version control data ,model and pipelines. 
